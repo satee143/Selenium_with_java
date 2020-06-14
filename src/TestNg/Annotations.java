@@ -7,7 +7,11 @@ public class Annotations {
 	@BeforeClass
 	void m1()
 	{
+<<<<<<< HEAD
 		System.out.println("Method 1 edited in eclipse");
+=======
+		System.out.println("Method 1 edited in browser");
+>>>>>>> branch 'master' of https://github.com/satee143/Selenium_with_java.git
 		
 	}
 	@BeforeMethod
