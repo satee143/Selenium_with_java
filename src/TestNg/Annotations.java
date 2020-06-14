@@ -19,7 +19,7 @@ public class Annotations {
 	@BeforeTest
 	void m3()
 	{
-		System.out.println("Mehtod 3");
+		System.out.println("Mehtod 3 update in eclipse");
 		
 	}
 
