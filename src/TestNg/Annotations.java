@@ -13,7 +13,7 @@ public class Annotations {
 	@BeforeMethod
 	void m2()
 	{
-		System.out.println("Method 2");
+		System.out.println("Method 2 updated");
 		
 	}
 	@BeforeTest
